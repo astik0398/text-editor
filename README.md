@@ -7,21 +7,21 @@ This project implements a simple yet powerful text editor with customizable font
 - **Font Selection**: Choose from a comprehensive list of Google Fonts to apply to your text.
 - **Font Weight Customization**: Adjust the font weight to emphasize or refine your text's appearance.
 - **Dynamic Italic Toggle**: Toggle italic styling, available only if the selected font family and weight support it.
-- **Auto Save**: Save your text and font preferences locally within the browser.
-- **Persistent Storage**: Upon reloading the page, your previous content and font selections are restored automatically for a seamless editing experience.
+
+## Screenshots
+
+![alt text](<Screenshot (1346).png>)
+
+![alt text](<Screenshot (1347).png>)
+
+![alt text](<Screenshot (1348).png>)
+
+![alt text](<Screenshot (1349).png>)
 
 ## Getting Started
 
 To get started with the text editor:
 
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Start typing! Your content will be automatically saved and your font preferences preserved.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, feature requests, or bug reports, please [open an issue](https://github.com/your-repo/issues) or [submit a pull request](https://github.com/your-repo/pulls).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+2. Run `npm i` to install all the required dependancies
+3. Once installed run the command `npm start` to start the application
